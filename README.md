@@ -11,9 +11,3 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=antonidass&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-  ##
- 
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
